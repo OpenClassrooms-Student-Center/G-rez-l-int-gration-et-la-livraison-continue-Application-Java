@@ -1,0 +1,8 @@
+build/
+.gradle/
+.git/
+.idea/
+*.iml
+out/
+bin/
+gradle.properties
